@@ -1,5 +1,5 @@
 # Project1:Titanic Survival Exploration
-* 该工程的主要目的是对泰坦尼克号的幸存者进行调查，我运用了决策树和随机森林的方法完成该项目。
+* 该工程的主要目的是对泰坦尼克号的幸存者进行调查，我运用了*决策树*和*随机森林*的方法完成该项目。
 ## **特征Features**
 - `pclass` : Passenger Class (1 = 1st; 2 = 2nd; 3 = 3rd)
 - `name` : Name
